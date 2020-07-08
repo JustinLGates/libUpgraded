@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\papag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\papag\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.csprojAssemblyReference.cache
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.AssemblyInfoInputs.cache
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.AssemblyInfo.cs
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.csproj.CoreCompileInputs.cache
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.exe
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.deps.json
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.runtimeconfig.json
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.runtimeconfig.dev.json
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.dll
+C:\codeworkssource\codeworks\upgradedlibrary\bin\Debug\netcoreapp3.1\upgradedlibrary.pdb
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.dll
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.pdb
+C:\codeworkssource\codeworks\upgradedlibrary\obj\Debug\netcoreapp3.1\upgradedlibrary.genruntimeconfig.cache
